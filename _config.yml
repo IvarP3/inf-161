@@ -1,6 +1,6 @@
 title: INF-161 Diseño y Administración de Base de Datos - 12 REGLAS DE CODD
 iconURL: assets/default-icon.png
-theme: supunkavinda/jekyll-theme-leaf
+remote_theme: supunkavinda/jekyll-theme-leaf
 
 # for a clean URL
 permalink: :slug
